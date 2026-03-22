@@ -36,7 +36,7 @@ If the database already exists, it is dropped and recreated to ensure a clean se
 A schema named `gold` is also created for analytical queries.
 
 **View Script:**  
-👉 [initialize_database.sql](scripts/setup/initialize_database.sql)
+👉 [initialize_database.sql](https://github.com/SamofDatasets/advanced-sql-data-analytics/blob/main/scripts/00_init_database.sql)
 
 ---
 
