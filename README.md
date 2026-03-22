@@ -79,7 +79,7 @@ Determines the earliest and latest dates in the dataset to understand the time c
 MIN(), MAX(), DATEDIFF(), time-based analysis  
 
 **View Script:**  
-👉 [date_range_analysis.sql](scripts/exploration/date_range_analysis.sql)
+👉 [date_range_exploration.sql](https://github.com/SamofDatasets/advanced-sql-data-analytics/blob/main/scripts/03_date_range_exploration.sql)
 
 ---
 
@@ -91,7 +91,7 @@ Calculates overall metrics such as total sales, total orders, and average values
 COUNT(), SUM(), AVG(), aggregation  
 
 **View Script:**  
-👉 [measures_exploration.sql](scripts/analysis/measures_exploration.sql)
+👉 [measures_exploration.sql](https://github.com/SamofDatasets/advanced-sql-data-analytics/blob/main/scripts/04_measures_exploration.sql)
 
 ---
 
@@ -103,7 +103,7 @@ Analyses how data is distributed across different categories such as products, c
 GROUP BY, ORDER BY, aggregation  
 
 **View Script:**  
-👉 [magnitude_analysis.sql](scripts/analysis/magnitude_analysis.sql)
+👉 [magnitude_analysis.sql](https://github.com/SamofDatasets/advanced-sql-data-analytics/blob/main/scripts/05_magnitude_analysis.sql)
 
 ---
 
@@ -115,7 +115,7 @@ Ranks products or customers based on performance metrics to identify top perform
 RANK(), DENSE_RANK(), ROW_NUMBER(), TOP  
 
 **View Script:**  
-👉 [ranking_analysis.sql](scripts/analysis/ranking_analysis.sql)
+👉 [ranking_analysis.sql](https://github.com/SamofDatasets/advanced-sql-data-analytics/blob/main/scripts/06_ranking_analysis.sql)
 
 ---
 
@@ -127,7 +127,7 @@ Tracks trends and performance changes over time to identify growth patterns and 
 DATEPART(), DATETRUNC(), aggregation, time-series analysis  
 
 **View Script:**  
-👉 [change_over_time.sql](scripts/time-series/change_over_time.sql)
+👉 [change_over_time.sql](https://github.com/SamofDatasets/advanced-sql-data-analytics/blob/main/scripts/07_change_over_time_analysis.sql)
 
 ---
 
@@ -139,7 +139,7 @@ Calculates running totals and cumulative metrics to track long-term performance.
 SUM() OVER(), AVG() OVER(), window functions  
 
 **View Script:**  
-👉 [cumulative_analysis.sql](scripts/time-series/cumulative_analysis.sql)
+👉 [cumulative_analysis.sql](https://github.com/SamofDatasets/advanced-sql-data-analytics/blob/main/scripts/08_cumulative_analysis.sql)
 
 ---
 
@@ -151,7 +151,7 @@ Compares performance across different time periods such as Year-over-Year and Mo
 LAG(), CASE statements, window functions  
 
 **View Script:**  
-👉 [performance_analysis.sql](scripts/time-series/performance_analysis.sql)
+👉 [performance_analysis.sql](https://github.com/SamofDatasets/advanced-sql-data-analytics/blob/main/scripts/09_performance_analysis.sql)
 
 ---
 
@@ -163,7 +163,7 @@ Segments customers and products into meaningful groups to support targeted busin
 CASE statements, GROUP BY, segmentation logic  
 
 **View Script:**  
-👉 [segmentation_analysis.sql](scripts/analysis/segmentation_analysis.sql)
+👉 [data_segmentation_analysis.sql](https://github.com/SamofDatasets/advanced-sql-data-analytics/blob/main/scripts/10_data_segmentation.sql)
 
 ---
 
@@ -175,7 +175,7 @@ Compares the contribution of different categories to the overall performance.
 SUM() OVER(), percentage calculations  
 
 **View Script:**  
-👉 [part_to_whole_analysis.sql](scripts/analysis/part_to_whole_analysis.sql)
+👉 [part_to_whole_analysis.sql](https://github.com/SamofDatasets/advanced-sql-data-analytics/blob/main/scripts/11_part_to_whole_analysis.sql)
 
 ---
 
@@ -196,7 +196,7 @@ This report consolidates key customer metrics and behaviours into a single analy
 - Customer lifespan  
 
 **View Script:**  
-👉 [customer_report.sql](scripts/reports/customer_report.sql)
+👉 [customer_report.sql](https://github.com/SamofDatasets/advanced-sql-data-analytics/blob/main/scripts/12_report_customers.sql)
 
 ---
 
@@ -213,7 +213,7 @@ This report provides a complete performance summary for products.
 - Average revenue per order  
 
 **View Script:**  
-👉 [product_report.sql](scripts/reports/product_report.sql)
+👉 [product_report.sql](https://github.com/SamofDatasets/advanced-sql-data-analytics/blob/main/scripts/13_report_products.sql)
 
 ---
 
