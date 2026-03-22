@@ -55,7 +55,7 @@ This helps in understanding how the data is organised before performing analysis
 Metadata queries, table inspection, schema exploration  
 
 **View Script:**  
-👉 [database_exploration.sql](scripts/exploration/database_exploration.sql)
+👉 [database_exploration.sql](https://github.com/SamofDatasets/advanced-sql-data-analytics/blob/main/scripts/01_database_exploration.sql)
 
 ---
 
@@ -67,7 +67,7 @@ Explores dimension tables to understand key attributes such as customers, produc
 DISTINCT, ORDER BY, exploratory data analysis  
 
 **View Script:**  
-👉 [dimension_exploration.sql](scripts/exploration/dimension_exploration.sql)
+👉 [dimensions_exploration.sql](https://github.com/SamofDatasets/advanced-sql-data-analytics/blob/main/scripts/02_dimensions_exploration.sql)
 
 ---
 
