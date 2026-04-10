@@ -1,4 +1,7 @@
-# Advanced SQL Analytics Project
+# Advanced SQL Analytics — Business Intelligence & KPI Reporting
+A structured collection of advanced SQL scripts demonstrating end-to-end data analysis across a relational sales database. Covers database exploration, time-series analysis, cumulative metrics, year-over-year performance comparisons, customer segmentation, and analytical reporting — all using production-level SQL techniques.
+  * Tools used: SQL Server, GitHub
+  * Techniques: Window functions (RANK, LAG, SUM OVER), CTEs, data segmentation, KPI development, YoY/MoM analysis
 
 ## 📊 Project Overview
 
