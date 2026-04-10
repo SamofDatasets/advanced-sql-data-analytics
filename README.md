@@ -12,7 +12,7 @@ The goal of this project is to show how raw transactional data can be transforme
 
 ---
 
-## 📁 Dataset Used
+## 📁 Datasets Used
 
 This project is built using a range of structured sales/transaction datasets containing information about:
 
